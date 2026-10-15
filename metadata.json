@@ -1,0 +1,6 @@
+{
+  "name": "Mindset da Abundância - Jornada PWA",
+  "description": "Aplicativo PWA gamificado e interativo de transformação mental para abundância, reprogramação de crenças, modelo GROW, metas SMART e diário diário.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
